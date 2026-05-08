@@ -25,6 +25,7 @@ project:
         - file: selena_singh.md
         - file: tom_george.md
         - file: trishna_saha_detroja.md
+        - file: emmanuelle.renauld.md
     - title: Datasets
       children:
         - file: abcd.md
